@@ -1,0 +1,1025 @@
+[19:09:42.419] [INFO   ] thread main starting.
+[19:09:42.426] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[19:09:42.429] [SEVERE ] configuration file was loaded from resources directory.
+[19:09:43.739] [INFO   ] thread dealer starting.
+[19:09:43.739] [INFO   ] thread player starting.
+[19:09:43.739] [INFO   ] thread player starting.
+[19:09:43.739] [INFO   ] thread dealer starting.
+[19:09:43.739] [INFO   ] thread player starting.
+[19:09:43.739] [INFO   ] thread player starting.
+[19:09:43.741] [INFO   ] thread computer-3 starting.
+[19:09:43.740] [INFO   ] thread computer-0 starting.
+[19:09:43.742] [INFO   ] thread computer-1 starting.
+[19:09:43.741] [INFO   ] thread computer-2 starting.
+[19:09:43.751] [SEVERE ] placing card 27 in slot 0
+[19:09:43.754] [SEVERE ] placing card 36 in slot 1
+[19:09:43.795] [SEVERE ] placing card 38 in slot 2
+[19:09:43.795] [SEVERE ] placing card 30 in slot 3
+[19:09:43.795] [SEVERE ] placing card 39 in slot 4
+[19:09:43.796] [SEVERE ] placing card 42 in slot 5
+[19:09:43.796] [SEVERE ] placing card 47 in slot 6
+[19:09:43.796] [SEVERE ] placing card 32 in slot 7
+[19:09:43.796] [SEVERE ] placing card 62 in slot 8
+[19:09:43.797] [SEVERE ] placing card 5 in slot 9
+[19:09:43.797] [SEVERE ] placing card 7 in slot 10
+[19:09:43.798] [SEVERE ] placing card 72 in slot 11
+[19:09:43.798] [SEVERE ] setting player 1 freeze to -60
+[19:09:43.799] [SEVERE ] setting player 2 freeze to -61
+[19:09:43.800] [SEVERE ] setting player 3 freeze to -62
+[19:09:43.800] [SEVERE ] setting player 4 freeze to -62
+[19:09:43.812] [SEVERE ] setting player 1 freeze to -74
+[19:09:43.813] [SEVERE ] setting player 2 freeze to -75
+[19:09:43.813] [SEVERE ] setting player 3 freeze to -75
+[19:09:43.813] [SEVERE ] setting player 4 freeze to -75
+[19:09:43.824] [SEVERE ] setting player 1 freeze to -86
+[19:09:43.825] [SEVERE ] setting player 2 freeze to -87
+[19:09:43.825] [SEVERE ] setting player 3 freeze to -87
+[19:09:43.826] [SEVERE ] setting player 4 freeze to -88
+[19:09:43.836] [SEVERE ] setting player 1 freeze to -98
+[19:09:43.837] [SEVERE ] setting player 2 freeze to -99
+[19:09:43.837] [SEVERE ] setting player 3 freeze to -99
+[19:09:43.837] [SEVERE ] setting player 4 freeze to -99
+[19:09:43.850] [SEVERE ] setting player 1 freeze to -112
+[19:09:43.850] [SEVERE ] setting player 2 freeze to -112
+[19:09:43.850] [SEVERE ] setting player 3 freeze to -112
+[19:09:43.851] [SEVERE ] setting player 4 freeze to -113
+[19:09:43.863] [SEVERE ] setting player 1 freeze to -125
+[19:09:43.864] [SEVERE ] setting player 2 freeze to -126
+[19:09:43.865] [SEVERE ] setting player 3 freeze to -127
+[19:09:43.865] [SEVERE ] setting player 4 freeze to -127
+[19:09:43.881] [SEVERE ] setting player 1 freeze to -143
+[19:09:43.881] [SEVERE ] setting player 2 freeze to -143
+[19:09:43.881] [SEVERE ] setting player 3 freeze to -143
+[19:09:43.881] [SEVERE ] setting player 4 freeze to -143
+[19:09:43.894] [SEVERE ] setting player 1 freeze to -156
+[19:09:43.894] [SEVERE ] setting player 2 freeze to -156
+[19:09:43.894] [SEVERE ] setting player 3 freeze to -156
+[19:09:43.895] [SEVERE ] setting player 4 freeze to -157
+[19:09:43.907] [SEVERE ] setting player 1 freeze to -169
+[19:09:43.907] [SEVERE ] setting player 2 freeze to -169
+[19:09:43.907] [SEVERE ] setting player 3 freeze to -169
+[19:09:43.908] [SEVERE ] setting player 4 freeze to -170
+[19:09:43.919] [SEVERE ] setting player 1 freeze to -181
+[19:09:43.919] [SEVERE ] setting player 2 freeze to -181
+[19:09:43.919] [SEVERE ] setting player 3 freeze to -181
+[19:09:43.920] [SEVERE ] setting player 4 freeze to -182
+[19:09:43.932] [SEVERE ] setting player 1 freeze to -194
+[19:09:43.932] [SEVERE ] setting player 2 freeze to -194
+[19:09:43.933] [SEVERE ] setting player 3 freeze to -195
+[19:09:43.933] [SEVERE ] setting player 4 freeze to -195
+[19:09:43.946] [SEVERE ] setting player 1 freeze to -208
+[19:09:43.946] [SEVERE ] setting player 2 freeze to -208
+[19:09:43.946] [SEVERE ] setting player 3 freeze to -208
+[19:09:43.947] [SEVERE ] setting player 4 freeze to -208
+[19:09:43.957] [SEVERE ] setting player 1 freeze to -219
+[19:09:43.957] [SEVERE ] setting player 2 freeze to -219
+[19:09:43.958] [SEVERE ] setting player 3 freeze to -220
+[19:09:43.958] [SEVERE ] setting player 4 freeze to -220
+[19:09:43.969] [SEVERE ] setting player 1 freeze to -231
+[19:09:43.969] [SEVERE ] setting player 2 freeze to -231
+[19:09:43.969] [SEVERE ] setting player 3 freeze to -231
+[19:09:43.969] [SEVERE ] setting player 4 freeze to -231
+[19:09:43.982] [SEVERE ] setting player 1 freeze to -244
+[19:09:43.983] [SEVERE ] setting player 2 freeze to -245
+[19:09:43.983] [SEVERE ] setting player 3 freeze to -245
+[19:09:43.983] [SEVERE ] setting player 4 freeze to -245
+[19:09:43.995] [SEVERE ] setting player 1 freeze to -257
+[19:09:43.995] [SEVERE ] setting player 2 freeze to -257
+[19:09:43.996] [SEVERE ] setting player 3 freeze to -258
+[19:09:43.996] [SEVERE ] setting player 4 freeze to -258
+[19:09:44.008] [SEVERE ] setting player 1 freeze to -270
+[19:09:44.008] [SEVERE ] setting player 2 freeze to -270
+[19:09:44.008] [SEVERE ] setting player 3 freeze to -270
+[19:09:44.009] [SEVERE ] setting player 4 freeze to -271
+[19:09:44.022] [SEVERE ] setting player 1 freeze to -284
+[19:09:44.022] [SEVERE ] setting player 2 freeze to -284
+[19:09:44.022] [SEVERE ] setting player 3 freeze to -284
+[19:09:44.022] [SEVERE ] setting player 4 freeze to -284
+[19:09:44.035] [SEVERE ] setting player 1 freeze to -297
+[19:09:44.035] [SEVERE ] setting player 2 freeze to -297
+[19:09:44.036] [SEVERE ] setting player 3 freeze to -298
+[19:09:44.036] [SEVERE ] setting player 4 freeze to -298
+[19:09:44.049] [SEVERE ] setting player 1 freeze to -311
+[19:09:44.049] [SEVERE ] setting player 2 freeze to -311
+[19:09:44.049] [SEVERE ] setting player 3 freeze to -311
+[19:09:44.049] [SEVERE ] setting player 4 freeze to -311
+[19:09:44.062] [SEVERE ] setting player 1 freeze to -324
+[19:09:44.062] [SEVERE ] setting player 2 freeze to -324
+[19:09:44.063] [SEVERE ] setting player 3 freeze to -325
+[19:09:44.063] [SEVERE ] setting player 4 freeze to -325
+[19:09:44.073] [SEVERE ] setting player 1 freeze to -335
+[19:09:44.074] [SEVERE ] setting player 2 freeze to -336
+[19:09:44.074] [SEVERE ] setting player 3 freeze to -336
+[19:09:44.074] [SEVERE ] setting player 4 freeze to -336
+[19:09:44.085] [SEVERE ] setting player 1 freeze to -347
+[19:09:44.085] [SEVERE ] setting player 2 freeze to -347
+[19:09:44.086] [SEVERE ] setting player 3 freeze to -348
+[19:09:44.086] [SEVERE ] setting player 4 freeze to -348
+[19:09:44.099] [SEVERE ] setting player 1 freeze to -361
+[19:09:44.099] [SEVERE ] setting player 2 freeze to -361
+[19:09:44.099] [SEVERE ] setting player 3 freeze to -361
+[19:09:44.100] [SEVERE ] setting player 4 freeze to -362
+[19:09:44.113] [SEVERE ] setting player 1 freeze to -375
+[19:09:44.113] [SEVERE ] setting player 2 freeze to -375
+[19:09:44.113] [SEVERE ] setting player 3 freeze to -375
+[19:09:44.113] [SEVERE ] setting player 4 freeze to -375
+[19:09:44.124] [SEVERE ] setting player 1 freeze to -386
+[19:09:44.125] [SEVERE ] setting player 2 freeze to -387
+[19:09:44.125] [SEVERE ] setting player 3 freeze to -387
+[19:09:44.125] [SEVERE ] setting player 4 freeze to -387
+[19:09:44.136] [SEVERE ] setting player 1 freeze to -398
+[19:09:44.136] [SEVERE ] setting player 2 freeze to -398
+[19:09:44.136] [SEVERE ] setting player 3 freeze to -398
+[19:09:44.137] [SEVERE ] setting player 4 freeze to -399
+[19:09:44.147] [SEVERE ] setting player 1 freeze to -409
+[19:09:44.148] [SEVERE ] setting player 2 freeze to -410
+[19:09:44.148] [SEVERE ] setting player 3 freeze to -410
+[19:09:44.148] [SEVERE ] setting player 4 freeze to -410
+[19:09:44.161] [SEVERE ] setting player 1 freeze to -423
+[19:09:44.162] [SEVERE ] setting player 2 freeze to -424
+[19:09:44.162] [SEVERE ] setting player 3 freeze to -424
+[19:09:44.162] [SEVERE ] setting player 4 freeze to -424
+[19:09:44.175] [SEVERE ] setting player 1 freeze to -437
+[19:09:44.175] [SEVERE ] setting player 2 freeze to -437
+[19:09:44.175] [SEVERE ] setting player 3 freeze to -437
+[19:09:44.175] [SEVERE ] setting player 4 freeze to -437
+[19:09:44.188] [SEVERE ] setting player 1 freeze to -450
+[19:09:44.189] [SEVERE ] setting player 2 freeze to -451
+[19:09:44.189] [SEVERE ] setting player 3 freeze to -451
+[19:09:44.189] [SEVERE ] setting player 4 freeze to -451
+[19:09:44.200] [SEVERE ] setting player 1 freeze to -462
+[19:09:44.200] [SEVERE ] setting player 2 freeze to -462
+[19:09:44.200] [SEVERE ] setting player 3 freeze to -462
+[19:09:44.200] [SEVERE ] setting player 4 freeze to -462
+[19:09:44.213] [SEVERE ] setting player 1 freeze to -475
+[19:09:44.214] [SEVERE ] setting player 2 freeze to -476
+[19:09:44.214] [SEVERE ] setting player 3 freeze to -476
+[19:09:44.214] [SEVERE ] setting player 4 freeze to -476
+[19:09:44.227] [SEVERE ] setting player 1 freeze to -489
+[19:09:44.227] [SEVERE ] setting player 2 freeze to -489
+[19:09:44.227] [SEVERE ] setting player 3 freeze to -489
+[19:09:44.228] [SEVERE ] setting player 4 freeze to -489
+[19:09:44.238] [SEVERE ] setting player 1 freeze to -500
+[19:09:44.239] [SEVERE ] setting player 2 freeze to -501
+[19:09:44.239] [SEVERE ] setting player 3 freeze to -501
+[19:09:44.239] [SEVERE ] setting player 4 freeze to -501
+[19:09:44.251] [SEVERE ] setting player 1 freeze to -513
+[19:09:44.251] [SEVERE ] setting player 2 freeze to -513
+[19:09:44.251] [SEVERE ] setting player 3 freeze to -513
+[19:09:44.251] [SEVERE ] setting player 4 freeze to -513
+[19:09:44.263] [SEVERE ] setting player 1 freeze to -525
+[19:09:44.263] [SEVERE ] setting player 2 freeze to -525
+[19:09:44.263] [SEVERE ] setting player 3 freeze to -525
+[19:09:44.264] [SEVERE ] setting player 4 freeze to -526
+[19:09:44.275] [SEVERE ] setting player 1 freeze to -537
+[19:09:44.275] [SEVERE ] setting player 2 freeze to -537
+[19:09:44.275] [SEVERE ] setting player 3 freeze to -537
+[19:09:44.276] [SEVERE ] setting player 4 freeze to -538
+[19:09:44.289] [SEVERE ] setting player 1 freeze to -551
+[19:09:44.289] [SEVERE ] setting player 2 freeze to -551
+[19:09:44.289] [SEVERE ] setting player 3 freeze to -551
+[19:09:44.289] [SEVERE ] setting player 4 freeze to -551
+[19:09:44.302] [SEVERE ] setting player 1 freeze to -564
+[19:09:44.302] [SEVERE ] setting player 2 freeze to -564
+[19:09:44.302] [SEVERE ] setting player 3 freeze to -564
+[19:09:44.302] [SEVERE ] setting player 4 freeze to -564
+[19:09:44.313] [SEVERE ] setting player 1 freeze to -575
+[19:09:44.314] [SEVERE ] setting player 2 freeze to -576
+[19:09:44.314] [SEVERE ] setting player 3 freeze to -576
+[19:09:44.314] [SEVERE ] setting player 4 freeze to -576
+[19:09:44.325] [SEVERE ] setting player 1 freeze to -587
+[19:09:44.326] [SEVERE ] setting player 2 freeze to -588
+[19:09:44.326] [SEVERE ] setting player 3 freeze to -588
+[19:09:44.327] [SEVERE ] setting player 4 freeze to -589
+[19:09:44.339] [SEVERE ] setting player 1 freeze to -601
+[19:09:44.340] [SEVERE ] setting player 2 freeze to -602
+[19:09:44.340] [SEVERE ] setting player 3 freeze to -602
+[19:09:44.340] [SEVERE ] setting player 4 freeze to -602
+[19:09:44.351] [SEVERE ] setting player 1 freeze to -613
+[19:09:44.351] [SEVERE ] setting player 2 freeze to -613
+[19:09:44.352] [SEVERE ] setting player 3 freeze to -614
+[19:09:44.352] [SEVERE ] setting player 4 freeze to -614
+[19:09:44.365] [SEVERE ] setting player 1 freeze to -627
+[19:09:44.365] [SEVERE ] setting player 2 freeze to -627
+[19:09:44.365] [SEVERE ] setting player 3 freeze to -627
+[19:09:44.365] [SEVERE ] setting player 4 freeze to -627
+[19:09:44.378] [SEVERE ] setting player 1 freeze to -640
+[19:09:44.378] [SEVERE ] setting player 2 freeze to -640
+[19:09:44.379] [SEVERE ] setting player 3 freeze to -641
+[19:09:44.379] [SEVERE ] setting player 4 freeze to -641
+[19:09:44.390] [SEVERE ] setting player 1 freeze to -652
+[19:09:44.390] [SEVERE ] setting player 2 freeze to -652
+[19:09:44.390] [SEVERE ] setting player 3 freeze to -652
+[19:09:44.390] [SEVERE ] setting player 4 freeze to -652
+[19:09:44.401] [SEVERE ] setting player 1 freeze to -663
+[19:09:44.401] [SEVERE ] setting player 2 freeze to -663
+[19:09:44.402] [SEVERE ] setting player 3 freeze to -664
+[19:09:44.402] [SEVERE ] setting player 4 freeze to -664
+[19:09:44.415] [SEVERE ] setting player 1 freeze to -677
+[19:09:44.415] [SEVERE ] setting player 2 freeze to -677
+[19:09:44.415] [SEVERE ] setting player 3 freeze to -677
+[19:09:44.416] [SEVERE ] setting player 4 freeze to -678
+[19:09:44.426] [SEVERE ] setting player 1 freeze to -688
+[19:09:44.426] [SEVERE ] setting player 2 freeze to -688
+[19:09:44.427] [SEVERE ] setting player 3 freeze to -689
+[19:09:44.427] [SEVERE ] setting player 4 freeze to -689
+[19:09:44.440] [SEVERE ] setting player 1 freeze to -702
+[19:09:44.440] [SEVERE ] setting player 2 freeze to -702
+[19:09:44.440] [SEVERE ] setting player 3 freeze to -702
+[19:09:44.440] [SEVERE ] setting player 4 freeze to -702
+[19:09:44.451] [SEVERE ] setting player 1 freeze to -713
+[19:09:44.451] [SEVERE ] setting player 2 freeze to -713
+[19:09:44.452] [SEVERE ] setting player 3 freeze to -714
+[19:09:44.452] [SEVERE ] setting player 4 freeze to -714
+[19:09:44.463] [SEVERE ] setting player 1 freeze to -725
+[19:09:44.463] [SEVERE ] setting player 2 freeze to -725
+[19:09:44.463] [SEVERE ] setting player 3 freeze to -725
+[19:09:44.463] [SEVERE ] setting player 4 freeze to -725
+[19:09:44.474] [SEVERE ] setting player 1 freeze to -736
+[19:09:44.474] [SEVERE ] setting player 2 freeze to -736
+[19:09:44.474] [SEVERE ] setting player 3 freeze to -736
+[19:09:44.474] [SEVERE ] setting player 4 freeze to -736
+[19:09:44.485] [SEVERE ] setting player 1 freeze to -747
+[19:09:44.485] [SEVERE ] setting player 2 freeze to -747
+[19:09:44.485] [SEVERE ] setting player 3 freeze to -747
+[19:09:44.486] [SEVERE ] setting player 4 freeze to -748
+[19:09:44.497] [SEVERE ] setting player 1 freeze to -759
+[19:09:44.497] [SEVERE ] setting player 2 freeze to -759
+[19:09:44.497] [SEVERE ] setting player 3 freeze to -759
+[19:09:44.498] [SEVERE ] setting player 4 freeze to -760
+[19:09:44.508] [SEVERE ] setting player 1 freeze to -770
+[19:09:44.508] [SEVERE ] setting player 2 freeze to -770
+[19:09:44.509] [SEVERE ] setting player 3 freeze to -771
+[19:09:44.509] [SEVERE ] setting player 4 freeze to -771
+[19:09:44.522] [SEVERE ] setting player 1 freeze to -784
+[19:09:44.522] [SEVERE ] setting player 2 freeze to -784
+[19:09:44.522] [SEVERE ] setting player 3 freeze to -784
+[19:09:44.523] [SEVERE ] setting player 4 freeze to -785
+[19:09:44.533] [SEVERE ] setting player 1 freeze to -795
+[19:09:44.534] [SEVERE ] setting player 2 freeze to -796
+[19:09:44.534] [SEVERE ] setting player 3 freeze to -796
+[19:09:44.534] [SEVERE ] setting player 4 freeze to -796
+[19:09:44.546] [SEVERE ] setting player 1 freeze to -808
+[19:09:44.547] [SEVERE ] setting player 2 freeze to -809
+[19:09:44.547] [SEVERE ] setting player 3 freeze to -809
+[19:09:44.547] [SEVERE ] setting player 4 freeze to -809
+[19:09:44.558] [SEVERE ] setting player 1 freeze to -820
+[19:09:44.558] [SEVERE ] setting player 2 freeze to -820
+[19:09:44.558] [SEVERE ] setting player 3 freeze to -820
+[19:09:44.558] [SEVERE ] setting player 4 freeze to -820
+[19:09:44.569] [SEVERE ] setting player 1 freeze to -831
+[19:09:44.569] [SEVERE ] setting player 2 freeze to -831
+[19:09:44.569] [SEVERE ] setting player 3 freeze to -831
+[19:09:44.569] [SEVERE ] setting player 4 freeze to -831
+[19:09:44.580] [SEVERE ] setting player 1 freeze to -842
+[19:09:44.580] [SEVERE ] setting player 2 freeze to -842
+[19:09:44.580] [SEVERE ] setting player 3 freeze to -842
+[19:09:44.581] [SEVERE ] setting player 4 freeze to -843
+[19:09:44.593] [SEVERE ] setting player 1 freeze to -855
+[19:09:44.594] [SEVERE ] setting player 2 freeze to -856
+[19:09:44.594] [SEVERE ] setting player 3 freeze to -856
+[19:09:44.594] [SEVERE ] setting player 4 freeze to -856
+[19:09:44.605] [SEVERE ] setting player 1 freeze to -867
+[19:09:44.605] [SEVERE ] setting player 2 freeze to -867
+[19:09:44.606] [SEVERE ] setting player 3 freeze to -868
+[19:09:44.606] [SEVERE ] setting player 4 freeze to -868
+[19:09:44.619] [SEVERE ] setting player 1 freeze to -881
+[19:09:44.619] [SEVERE ] setting player 2 freeze to -881
+[19:09:44.619] [SEVERE ] setting player 3 freeze to -881
+[19:09:44.619] [SEVERE ] setting player 4 freeze to -881
+[19:09:44.630] [SEVERE ] setting player 1 freeze to -892
+[19:09:44.630] [SEVERE ] setting player 2 freeze to -892
+[19:09:44.630] [SEVERE ] setting player 3 freeze to -892
+[19:09:44.630] [SEVERE ] setting player 4 freeze to -892
+[19:09:44.643] [SEVERE ] setting player 1 freeze to -905
+[19:09:44.643] [SEVERE ] setting player 2 freeze to -905
+[19:09:44.643] [SEVERE ] setting player 3 freeze to -905
+[19:09:44.643] [SEVERE ] setting player 4 freeze to -905
+[19:09:44.654] [SEVERE ] setting player 1 freeze to -916
+[19:09:44.654] [SEVERE ] setting player 2 freeze to -916
+[19:09:44.655] [SEVERE ] setting player 3 freeze to -917
+[19:09:44.655] [SEVERE ] setting player 4 freeze to -917
+[19:09:44.665] [SEVERE ] setting player 1 freeze to -927
+[19:09:44.665] [SEVERE ] setting player 2 freeze to -927
+[19:09:44.665] [SEVERE ] setting player 3 freeze to -927
+[19:09:44.666] [SEVERE ] setting player 4 freeze to -928
+[19:09:44.677] [SEVERE ] setting player 1 freeze to -939
+[19:09:44.677] [SEVERE ] setting player 2 freeze to -939
+[19:09:44.677] [SEVERE ] setting player 3 freeze to -939
+[19:09:44.678] [SEVERE ] setting player 4 freeze to -940
+[19:09:44.688] [SEVERE ] setting player 1 freeze to -950
+[19:09:44.688] [SEVERE ] setting player 2 freeze to -950
+[19:09:44.688] [SEVERE ] setting player 3 freeze to -950
+[19:09:44.689] [SEVERE ] setting player 4 freeze to -951
+[19:09:44.701] [SEVERE ] setting player 1 freeze to -963
+[19:09:44.701] [SEVERE ] setting player 2 freeze to -963
+[19:09:44.701] [SEVERE ] setting player 3 freeze to -963
+[19:09:44.702] [SEVERE ] setting player 4 freeze to -964
+[19:09:44.712] [SEVERE ] setting player 1 freeze to -974
+[19:09:44.712] [SEVERE ] setting player 2 freeze to -974
+[19:09:44.713] [SEVERE ] setting player 3 freeze to -975
+[19:09:44.713] [SEVERE ] setting player 4 freeze to -975
+[19:09:44.725] [SEVERE ] setting player 1 freeze to -987
+[19:09:44.725] [SEVERE ] setting player 2 freeze to -987
+[19:09:44.725] [SEVERE ] setting player 3 freeze to -987
+[19:09:44.725] [SEVERE ] setting player 4 freeze to -987
+[19:09:44.735] [SEVERE ] setting player 1 freeze to -997
+[19:09:44.736] [SEVERE ] setting player 2 freeze to -998
+[19:09:44.736] [SEVERE ] setting player 3 freeze to -998
+[19:09:44.736] [SEVERE ] setting player 4 freeze to -998
+[19:09:44.748] [SEVERE ] setting player 1 freeze to -1010
+[19:09:44.749] [SEVERE ] setting player 2 freeze to -1011
+[19:09:44.749] [SEVERE ] setting player 3 freeze to -1011
+[19:09:44.749] [SEVERE ] setting player 4 freeze to -1011
+[19:09:44.760] [SEVERE ] setting player 1 freeze to -1022
+[19:09:44.760] [SEVERE ] setting player 2 freeze to -1022
+[19:09:44.760] [SEVERE ] setting player 3 freeze to -1022
+[19:09:44.760] [SEVERE ] setting player 4 freeze to -1022
+[19:09:44.770] [SEVERE ] setting player 1 freeze to -1032
+[19:09:44.771] [SEVERE ] setting player 2 freeze to -1033
+[19:09:44.771] [SEVERE ] setting player 3 freeze to -1033
+[19:09:44.771] [SEVERE ] setting player 4 freeze to -1033
+[19:09:44.782] [SEVERE ] setting player 1 freeze to -1044
+[19:09:44.782] [SEVERE ] setting player 2 freeze to -1044
+[19:09:44.782] [SEVERE ] setting player 3 freeze to -1044
+[19:09:44.782] [SEVERE ] setting player 4 freeze to -1044
+[19:09:44.793] [SEVERE ] setting player 1 freeze to -1055
+[19:09:44.793] [SEVERE ] setting player 2 freeze to -1055
+[19:09:44.793] [SEVERE ] setting player 3 freeze to -1055
+[19:09:44.793] [SEVERE ] setting player 4 freeze to -1055
+[19:09:44.804] [SEVERE ] setting player 1 freeze to -1066
+[19:09:44.805] [SEVERE ] setting player 2 freeze to -1067
+[19:09:44.805] [SEVERE ] setting player 3 freeze to -1067
+[19:09:44.805] [SEVERE ] setting player 4 freeze to -1067
+[19:09:44.817] [SEVERE ] setting player 1 freeze to -1079
+[19:09:44.817] [SEVERE ] setting player 2 freeze to -1079
+[19:09:44.817] [SEVERE ] setting player 3 freeze to -1079
+[19:09:44.817] [SEVERE ] setting player 4 freeze to -1079
+[19:09:44.830] [SEVERE ] setting player 1 freeze to -1092
+[19:09:44.830] [SEVERE ] setting player 2 freeze to -1092
+[19:09:44.830] [SEVERE ] setting player 3 freeze to -1092
+[19:09:44.831] [SEVERE ] setting player 4 freeze to -1093
+[19:09:44.841] [SEVERE ] setting player 1 freeze to -1103
+[19:09:44.841] [SEVERE ] setting player 2 freeze to -1103
+[19:09:44.841] [SEVERE ] setting player 3 freeze to -1103
+[19:09:44.841] [SEVERE ] setting player 4 freeze to -1103
+[19:09:44.852] [SEVERE ] setting player 1 freeze to -1114
+[19:09:44.852] [SEVERE ] setting player 2 freeze to -1114
+[19:09:44.852] [SEVERE ] setting player 3 freeze to -1114
+[19:09:44.853] [SEVERE ] setting player 4 freeze to -1115
+[19:09:44.865] [SEVERE ] setting player 1 freeze to -1127
+[19:09:44.865] [SEVERE ] setting player 2 freeze to -1127
+[19:09:44.865] [SEVERE ] setting player 3 freeze to -1127
+[19:09:44.865] [SEVERE ] setting player 4 freeze to -1127
+[19:09:44.876] [SEVERE ] setting player 1 freeze to -1138
+[19:09:44.876] [SEVERE ] setting player 2 freeze to -1138
+[19:09:44.876] [SEVERE ] setting player 3 freeze to -1138
+[19:09:44.876] [SEVERE ] setting player 4 freeze to -1138
+[19:09:44.888] [SEVERE ] setting player 1 freeze to -1150
+[19:09:44.888] [SEVERE ] setting player 2 freeze to -1150
+[19:09:44.888] [SEVERE ] setting player 3 freeze to -1150
+[19:09:44.888] [SEVERE ] setting player 4 freeze to -1150
+[19:09:44.899] [SEVERE ] setting player 1 freeze to -1161
+[19:09:44.899] [SEVERE ] setting player 2 freeze to -1161
+[19:09:44.899] [SEVERE ] setting player 3 freeze to -1161
+[19:09:44.899] [SEVERE ] setting player 4 freeze to -1161
+[19:09:44.912] [SEVERE ] setting player 1 freeze to -1174
+[19:09:44.912] [SEVERE ] setting player 2 freeze to -1174
+[19:09:44.913] [SEVERE ] setting player 3 freeze to -1175
+[19:09:44.913] [SEVERE ] setting player 4 freeze to -1175
+[19:09:44.924] [SEVERE ] setting player 1 freeze to -1186
+[19:09:44.924] [SEVERE ] setting player 2 freeze to -1186
+[19:09:44.924] [SEVERE ] setting player 3 freeze to -1186
+[19:09:44.924] [SEVERE ] setting player 4 freeze to -1186
+[19:09:44.935] [SEVERE ] setting player 1 freeze to -1197
+[19:09:44.935] [SEVERE ] setting player 2 freeze to -1197
+[19:09:44.935] [SEVERE ] setting player 3 freeze to -1197
+[19:09:44.935] [SEVERE ] setting player 4 freeze to -1197
+[19:09:44.947] [SEVERE ] setting player 1 freeze to -1209
+[19:09:44.947] [SEVERE ] setting player 2 freeze to -1209
+[19:09:44.947] [SEVERE ] setting player 3 freeze to -1209
+[19:09:44.947] [SEVERE ] setting player 4 freeze to -1209
+[19:09:44.957] [SEVERE ] setting player 1 freeze to -1219
+[19:09:44.958] [SEVERE ] setting player 2 freeze to -1220
+[19:09:44.958] [SEVERE ] setting player 3 freeze to -1220
+[19:09:44.958] [SEVERE ] setting player 4 freeze to -1220
+[19:09:44.969] [SEVERE ] setting player 1 freeze to -1231
+[19:09:44.969] [SEVERE ] setting player 2 freeze to -1231
+[19:09:44.969] [SEVERE ] setting player 3 freeze to -1231
+[19:09:44.969] [SEVERE ] setting player 4 freeze to -1231
+[19:09:44.980] [SEVERE ] setting player 1 freeze to -1242
+[19:09:44.980] [SEVERE ] setting player 2 freeze to -1242
+[19:09:44.980] [SEVERE ] setting player 3 freeze to -1242
+[19:09:44.981] [SEVERE ] setting player 4 freeze to -1243
+[19:09:44.991] [SEVERE ] setting player 1 freeze to -1253
+[19:09:44.991] [SEVERE ] setting player 2 freeze to -1253
+[19:09:44.991] [SEVERE ] setting player 3 freeze to -1253
+[19:09:44.991] [SEVERE ] setting player 4 freeze to -1253
+[19:09:45.002] [SEVERE ] setting player 1 freeze to -1264
+[19:09:45.002] [SEVERE ] setting player 2 freeze to -1264
+[19:09:45.003] [SEVERE ] setting player 3 freeze to -1265
+[19:09:45.003] [SEVERE ] setting player 4 freeze to -1265
+[19:09:45.014] [SEVERE ] setting player 1 freeze to -1276
+[19:09:45.014] [SEVERE ] setting player 2 freeze to -1276
+[19:09:45.015] [SEVERE ] setting player 3 freeze to -1277
+[19:09:45.015] [SEVERE ] setting player 4 freeze to -1277
+[19:09:45.028] [SEVERE ] setting player 1 freeze to -1290
+[19:09:45.028] [SEVERE ] setting player 2 freeze to -1290
+[19:09:45.028] [SEVERE ] setting player 3 freeze to -1290
+[19:09:45.028] [SEVERE ] setting player 4 freeze to -1290
+[19:09:45.039] [SEVERE ] setting player 1 freeze to -1301
+[19:09:45.039] [SEVERE ] setting player 2 freeze to -1301
+[19:09:45.039] [SEVERE ] setting player 3 freeze to -1301
+[19:09:45.039] [SEVERE ] setting player 4 freeze to -1301
+[19:09:45.050] [SEVERE ] setting player 1 freeze to -1312
+[19:09:45.050] [SEVERE ] setting player 2 freeze to -1312
+[19:09:45.050] [SEVERE ] setting player 3 freeze to -1312
+[19:09:45.050] [SEVERE ] setting player 4 freeze to -1312
+[19:09:45.061] [SEVERE ] setting player 1 freeze to -1323
+[19:09:45.061] [SEVERE ] setting player 2 freeze to -1323
+[19:09:45.061] [SEVERE ] setting player 3 freeze to -1323
+[19:09:45.061] [SEVERE ] setting player 4 freeze to -1323
+[19:09:45.074] [SEVERE ] setting player 1 freeze to -1336
+[19:09:45.075] [SEVERE ] setting player 2 freeze to -1337
+[19:09:45.075] [SEVERE ] setting player 3 freeze to -1337
+[19:09:45.075] [SEVERE ] setting player 4 freeze to -1337
+[19:09:45.086] [SEVERE ] setting player 1 freeze to -1348
+[19:09:45.086] [SEVERE ] setting player 2 freeze to -1348
+[19:09:45.086] [SEVERE ] setting player 3 freeze to -1348
+[19:09:45.086] [SEVERE ] setting player 4 freeze to -1348
+[19:09:45.098] [SEVERE ] setting player 1 freeze to -1360
+[19:09:45.099] [SEVERE ] setting player 2 freeze to -1361
+[19:09:45.099] [SEVERE ] setting player 3 freeze to -1361
+[19:09:45.099] [SEVERE ] setting player 4 freeze to -1361
+[19:09:45.110] [SEVERE ] setting player 1 freeze to -1372
+[19:09:45.111] [SEVERE ] setting player 2 freeze to -1373
+[19:09:45.111] [SEVERE ] setting player 3 freeze to -1373
+[19:09:45.111] [SEVERE ] setting player 4 freeze to -1373
+[19:09:45.123] [SEVERE ] setting player 1 freeze to -1385
+[19:09:45.124] [SEVERE ] setting player 2 freeze to -1386
+[19:09:45.124] [SEVERE ] setting player 3 freeze to -1386
+[19:09:45.124] [SEVERE ] setting player 4 freeze to -1386
+[19:09:45.136] [SEVERE ] setting player 1 freeze to -1398
+[19:09:45.136] [SEVERE ] setting player 2 freeze to -1398
+[19:09:45.136] [SEVERE ] setting player 3 freeze to -1398
+[19:09:45.137] [SEVERE ] setting player 4 freeze to -1399
+[19:09:45.148] [SEVERE ] setting player 1 freeze to -1410
+[19:09:45.149] [SEVERE ] setting player 2 freeze to -1411
+[19:09:45.149] [SEVERE ] setting player 3 freeze to -1411
+[19:09:45.149] [SEVERE ] setting player 4 freeze to -1411
+[19:09:45.159] [SEVERE ] setting player 1 freeze to -1421
+[19:09:45.159] [SEVERE ] setting player 2 freeze to -1421
+[19:09:45.160] [SEVERE ] setting player 3 freeze to -1422
+[19:09:45.160] [SEVERE ] setting player 4 freeze to -1422
+[19:09:45.170] [SEVERE ] setting player 1 freeze to -1432
+[19:09:45.170] [SEVERE ] setting player 2 freeze to -1432
+[19:09:45.170] [SEVERE ] setting player 3 freeze to -1432
+[19:09:45.170] [SEVERE ] setting player 4 freeze to -1432
+[19:09:45.181] [SEVERE ] setting player 1 freeze to -1443
+[19:09:45.181] [SEVERE ] setting player 2 freeze to -1443
+[19:09:45.182] [SEVERE ] setting player 3 freeze to -1444
+[19:09:45.182] [SEVERE ] setting player 4 freeze to -1444
+[19:09:45.193] [SEVERE ] setting player 1 freeze to -1455
+[19:09:45.193] [SEVERE ] setting player 2 freeze to -1455
+[19:09:45.193] [SEVERE ] setting player 3 freeze to -1455
+[19:09:45.193] [SEVERE ] setting player 4 freeze to -1455
+[19:09:45.206] [SEVERE ] setting player 1 freeze to -1468
+[19:09:45.206] [SEVERE ] setting player 2 freeze to -1468
+[19:09:45.206] [SEVERE ] setting player 3 freeze to -1468
+[19:09:45.206] [SEVERE ] setting player 4 freeze to -1468
+[19:09:45.217] [SEVERE ] setting player 1 freeze to -1479
+[19:09:45.217] [SEVERE ] setting player 2 freeze to -1479
+[19:09:45.217] [SEVERE ] setting player 3 freeze to -1479
+[19:09:45.217] [SEVERE ] setting player 4 freeze to -1479
+[19:09:45.230] [SEVERE ] setting player 1 freeze to -1492
+[19:09:45.230] [SEVERE ] setting player 2 freeze to -1492
+[19:09:45.230] [SEVERE ] setting player 3 freeze to -1492
+[19:09:45.230] [SEVERE ] setting player 4 freeze to -1492
+[19:09:45.241] [SEVERE ] setting player 1 freeze to -1503
+[19:09:45.242] [SEVERE ] setting player 2 freeze to -1504
+[19:09:45.242] [SEVERE ] setting player 3 freeze to -1504
+[19:09:45.242] [SEVERE ] setting player 4 freeze to -1504
+[19:09:45.254] [SEVERE ] setting player 1 freeze to -1516
+[19:09:45.254] [SEVERE ] setting player 2 freeze to -1516
+[19:09:45.254] [SEVERE ] setting player 3 freeze to -1516
+[19:09:45.254] [SEVERE ] setting player 4 freeze to -1516
+[19:09:45.265] [SEVERE ] setting player 1 freeze to -1527
+[19:09:45.265] [SEVERE ] setting player 2 freeze to -1527
+[19:09:45.266] [SEVERE ] setting player 3 freeze to -1528
+[19:09:45.266] [SEVERE ] setting player 4 freeze to -1528
+[19:09:45.277] [SEVERE ] setting player 1 freeze to -1539
+[19:09:45.277] [SEVERE ] setting player 2 freeze to -1539
+[19:09:45.277] [SEVERE ] setting player 3 freeze to -1539
+[19:09:45.277] [SEVERE ] setting player 4 freeze to -1539
+[19:09:45.290] [SEVERE ] setting player 1 freeze to -1552
+[19:09:45.290] [SEVERE ] setting player 2 freeze to -1552
+[19:09:45.290] [SEVERE ] setting player 3 freeze to -1552
+[19:09:45.291] [SEVERE ] setting player 4 freeze to -1553
+[19:09:45.302] [SEVERE ] setting player 1 freeze to -1564
+[19:09:45.302] [SEVERE ] setting player 2 freeze to -1564
+[19:09:45.302] [SEVERE ] setting player 3 freeze to -1564
+[19:09:45.302] [SEVERE ] setting player 4 freeze to -1564
+[19:09:45.313] [SEVERE ] setting player 1 freeze to -1575
+[19:09:45.314] [SEVERE ] setting player 2 freeze to -1576
+[19:09:45.314] [SEVERE ] setting player 3 freeze to -1576
+[19:09:45.314] [SEVERE ] setting player 4 freeze to -1576
+[19:09:45.326] [SEVERE ] setting player 1 freeze to -1588
+[19:09:45.327] [SEVERE ] setting player 2 freeze to -1589
+[19:09:45.327] [SEVERE ] setting player 3 freeze to -1589
+[19:09:45.327] [SEVERE ] setting player 4 freeze to -1589
+[19:09:45.339] [SEVERE ] setting player 1 freeze to -1601
+[19:09:45.339] [SEVERE ] setting player 2 freeze to -1601
+[19:09:45.339] [SEVERE ] setting player 3 freeze to -1601
+[19:09:45.340] [SEVERE ] setting player 4 freeze to -1602
+[19:09:45.351] [SEVERE ] setting player 1 freeze to -1613
+[19:09:45.352] [SEVERE ] setting player 2 freeze to -1614
+[19:09:45.352] [SEVERE ] setting player 3 freeze to -1614
+[19:09:45.352] [SEVERE ] setting player 4 freeze to -1614
+[19:09:45.364] [SEVERE ] setting player 1 freeze to -1626
+[19:09:45.364] [SEVERE ] setting player 2 freeze to -1626
+[19:09:45.364] [SEVERE ] setting player 3 freeze to -1626
+[19:09:45.364] [SEVERE ] setting player 4 freeze to -1626
+[19:09:45.376] [SEVERE ] setting player 1 freeze to -1638
+[19:09:45.376] [SEVERE ] setting player 2 freeze to -1638
+[19:09:45.377] [SEVERE ] setting player 3 freeze to -1639
+[19:09:45.377] [SEVERE ] setting player 4 freeze to -1639
+[19:09:45.389] [SEVERE ] setting player 1 freeze to -1651
+[19:09:45.389] [SEVERE ] setting player 2 freeze to -1651
+[19:09:45.389] [SEVERE ] setting player 3 freeze to -1651
+[19:09:45.389] [SEVERE ] setting player 4 freeze to -1651
+[19:09:45.400] [SEVERE ] setting player 1 freeze to -1662
+[19:09:45.400] [SEVERE ] setting player 2 freeze to -1662
+[19:09:45.400] [SEVERE ] setting player 3 freeze to -1662
+[19:09:45.400] [SEVERE ] setting player 4 freeze to -1662
+[19:09:45.412] [SEVERE ] setting player 1 freeze to -1674
+[19:09:45.412] [SEVERE ] setting player 2 freeze to -1674
+[19:09:45.413] [SEVERE ] setting player 3 freeze to -1675
+[19:09:45.413] [SEVERE ] setting player 4 freeze to -1675
+[19:09:45.425] [SEVERE ] setting player 1 freeze to -1687
+[19:09:45.426] [SEVERE ] setting player 2 freeze to -1688
+[19:09:45.426] [SEVERE ] setting player 3 freeze to -1688
+[19:09:45.426] [SEVERE ] setting player 4 freeze to -1688
+[19:09:45.437] [SEVERE ] setting player 1 freeze to -1699
+[19:09:45.437] [SEVERE ] setting player 2 freeze to -1699
+[19:09:45.437] [SEVERE ] setting player 3 freeze to -1699
+[19:09:45.437] [SEVERE ] setting player 4 freeze to -1699
+[19:09:45.448] [SEVERE ] setting player 1 freeze to -1710
+[19:09:45.449] [SEVERE ] setting player 2 freeze to -1711
+[19:09:45.449] [SEVERE ] setting player 3 freeze to -1711
+[19:09:45.449] [SEVERE ] setting player 4 freeze to -1711
+[19:09:45.461] [SEVERE ] setting player 1 freeze to -1723
+[19:09:45.461] [SEVERE ] setting player 2 freeze to -1723
+[19:09:45.462] [SEVERE ] setting player 3 freeze to -1724
+[19:09:45.462] [SEVERE ] setting player 4 freeze to -1724
+[19:09:45.475] [SEVERE ] setting player 1 freeze to -1737
+[19:09:45.475] [SEVERE ] setting player 2 freeze to -1737
+[19:09:45.475] [SEVERE ] setting player 3 freeze to -1737
+[19:09:45.475] [SEVERE ] setting player 4 freeze to -1737
+[19:09:45.486] [SEVERE ] setting player 1 freeze to -1748
+[19:09:45.487] [SEVERE ] setting player 2 freeze to -1749
+[19:09:45.487] [SEVERE ] setting player 3 freeze to -1749
+[19:09:45.487] [SEVERE ] setting player 4 freeze to -1749
+[19:09:45.499] [SEVERE ] setting player 1 freeze to -1761
+[19:09:45.499] [SEVERE ] setting player 2 freeze to -1761
+[19:09:45.499] [SEVERE ] setting player 3 freeze to -1761
+[19:09:45.499] [SEVERE ] setting player 4 freeze to -1761
+[19:09:45.515] [SEVERE ] setting player 1 freeze to -1777
+[19:09:45.515] [SEVERE ] setting player 2 freeze to -1777
+[19:09:45.515] [SEVERE ] setting player 3 freeze to -1777
+[19:09:45.515] [SEVERE ] setting player 4 freeze to -1777
+[19:09:45.528] [SEVERE ] setting player 1 freeze to -1790
+[19:09:45.529] [SEVERE ] setting player 2 freeze to -1791
+[19:09:45.529] [SEVERE ] setting player 3 freeze to -1791
+[19:09:45.529] [SEVERE ] setting player 4 freeze to -1791
+[19:09:45.542] [SEVERE ] setting player 1 freeze to -1804
+[19:09:45.542] [SEVERE ] setting player 2 freeze to -1804
+[19:09:45.542] [SEVERE ] setting player 3 freeze to -1804
+[19:09:45.542] [SEVERE ] setting player 4 freeze to -1804
+[19:09:45.555] [SEVERE ] setting player 1 freeze to -1817
+[19:09:45.555] [SEVERE ] setting player 2 freeze to -1817
+[19:09:45.555] [SEVERE ] setting player 3 freeze to -1817
+[19:09:45.555] [SEVERE ] setting player 4 freeze to -1817
+[19:09:45.566] [SEVERE ] setting player 1 freeze to -1828
+[19:09:45.566] [SEVERE ] setting player 2 freeze to -1828
+[19:09:45.566] [SEVERE ] setting player 3 freeze to -1828
+[19:09:45.567] [SEVERE ] setting player 4 freeze to -1829
+[19:09:45.579] [SEVERE ] setting player 1 freeze to -1841
+[19:09:45.579] [SEVERE ] setting player 2 freeze to -1841
+[19:09:45.579] [SEVERE ] setting player 3 freeze to -1841
+[19:09:45.579] [SEVERE ] setting player 4 freeze to -1841
+[19:09:45.592] [SEVERE ] setting player 1 freeze to -1854
+[19:09:45.592] [SEVERE ] setting player 2 freeze to -1854
+[19:09:45.593] [SEVERE ] setting player 3 freeze to -1855
+[19:09:45.593] [SEVERE ] setting player 4 freeze to -1855
+[19:09:45.604] [SEVERE ] setting player 1 freeze to -1866
+[19:09:45.604] [SEVERE ] setting player 2 freeze to -1866
+[19:09:45.604] [SEVERE ] setting player 3 freeze to -1866
+[19:09:45.604] [SEVERE ] setting player 4 freeze to -1866
+[19:09:45.616] [SEVERE ] setting player 1 freeze to -1878
+[19:09:45.616] [SEVERE ] setting player 2 freeze to -1878
+[19:09:45.616] [SEVERE ] setting player 3 freeze to -1878
+[19:09:45.616] [SEVERE ] setting player 4 freeze to -1878
+[19:09:45.629] [SEVERE ] setting player 1 freeze to -1891
+[19:09:45.629] [SEVERE ] setting player 2 freeze to -1891
+[19:09:45.629] [SEVERE ] setting player 3 freeze to -1891
+[19:09:45.629] [SEVERE ] setting player 4 freeze to -1891
+[19:09:45.641] [SEVERE ] setting player 1 freeze to -1903
+[19:09:45.642] [SEVERE ] setting player 2 freeze to -1904
+[19:09:45.642] [SEVERE ] setting player 3 freeze to -1904
+[19:09:45.642] [SEVERE ] setting player 4 freeze to -1904
+[19:09:45.652] [SEVERE ] setting player 1 freeze to -1914
+[19:09:45.652] [SEVERE ] setting player 2 freeze to -1914
+[19:09:45.652] [SEVERE ] setting player 3 freeze to -1914
+[19:09:45.652] [SEVERE ] setting player 4 freeze to -1914
+[19:09:45.663] [SEVERE ] setting player 1 freeze to -1925
+[19:09:45.663] [SEVERE ] setting player 2 freeze to -1925
+[19:09:45.663] [SEVERE ] setting player 3 freeze to -1925
+[19:09:45.663] [SEVERE ] setting player 4 freeze to -1925
+[19:09:45.674] [SEVERE ] setting player 1 freeze to -1936
+[19:09:45.675] [SEVERE ] setting player 2 freeze to -1937
+[19:09:45.675] [SEVERE ] setting player 3 freeze to -1937
+[19:09:45.675] [SEVERE ] setting player 4 freeze to -1937
+[19:09:45.688] [SEVERE ] setting player 1 freeze to -1950
+[19:09:45.688] [SEVERE ] setting player 2 freeze to -1950
+[19:09:45.688] [SEVERE ] setting player 3 freeze to -1950
+[19:09:45.688] [SEVERE ] setting player 4 freeze to -1950
+[19:09:45.699] [SEVERE ] setting player 1 freeze to -1961
+[19:09:45.700] [SEVERE ] setting player 2 freeze to -1962
+[19:09:45.700] [SEVERE ] setting player 3 freeze to -1962
+[19:09:45.700] [SEVERE ] setting player 4 freeze to -1962
+[19:09:45.712] [SEVERE ] setting player 1 freeze to -1974
+[19:09:45.712] [SEVERE ] setting player 2 freeze to -1974
+[19:09:45.713] [SEVERE ] setting player 3 freeze to -1975
+[19:09:45.713] [SEVERE ] setting player 4 freeze to -1975
+[19:09:45.725] [SEVERE ] setting player 1 freeze to -1987
+[19:09:45.725] [SEVERE ] setting player 2 freeze to -1987
+[19:09:45.725] [SEVERE ] setting player 3 freeze to -1987
+[19:09:45.725] [SEVERE ] setting player 4 freeze to -1987
+[19:09:45.738] [SEVERE ] setting player 1 freeze to -2000
+[19:09:45.738] [SEVERE ] setting player 2 freeze to -2000
+[19:09:45.738] [SEVERE ] setting player 3 freeze to -2000
+[19:09:45.738] [SEVERE ] setting player 4 freeze to -2000
+[19:09:45.742] [SEVERE ] player 4 placing token on slot 8
+[19:09:45.742] [SEVERE ] player 1 placing token on slot 11
+[19:09:45.743] [SEVERE ] player 4 placing token on slot 0
+[19:09:45.744] [SEVERE ] player 1 placing token on slot 3
+[19:09:45.744] [SEVERE ] player 4 placing token on slot 9
+[19:09:45.745] [SEVERE ] setting player 1 freeze to -2007
+[19:09:45.745] [SEVERE ] setting player 2 freeze to -2007
+[19:09:45.745] [SEVERE ] setting player 3 freeze to -2007
+[19:09:45.745] [SEVERE ] setting player 4 freeze to 0
+[19:09:45.745] [SEVERE ] player 1 placing token on slot 9
+[19:09:45.745] [SEVERE ] player 3 placing token on slot 7
+[19:09:45.745] [SEVERE ] setting player 1 freeze to -2007
+[19:09:45.745] [SEVERE ] player 2 placing token on slot 3
+[19:09:45.745] [SEVERE ] setting player 2 freeze to -2007
+[19:09:45.746] [SEVERE ] setting player 3 freeze to -2008
+[19:09:45.746] [SEVERE ] setting player 4 freeze to -1
+[19:09:45.746] [SEVERE ] setting player 1 freeze to 0
+[19:09:45.746] [SEVERE ] setting player 2 freeze to -2008
+[19:09:45.746] [SEVERE ] setting player 3 freeze to -2008
+[19:09:45.746] [SEVERE ] setting player 4 freeze to -1
+[19:09:45.746] [SEVERE ] removing player 1 token from slot 9
+[19:09:45.747] [SEVERE ] player 3 placing token on slot 3
+[19:09:45.747] [SEVERE ] player 2 placing token on slot 4
+[19:09:45.747] [SEVERE ] player 1 placing token on slot 9
+[19:09:45.747] [SEVERE ] setting player 1 freeze to -1
+[19:09:45.747] [SEVERE ] setting player 2 freeze to -2009
+[19:09:45.747] [SEVERE ] setting player 3 freeze to -2009
+[19:09:45.747] [SEVERE ] setting player 4 freeze to -2
+[19:09:45.748] [SEVERE ] setting player 1 freeze to 0
+[19:09:45.748] [SEVERE ] setting player 2 freeze to -2010
+[19:09:45.748] [SEVERE ] setting player 3 freeze to -2010
+[19:09:45.748] [SEVERE ] setting player 4 freeze to -3
+[19:09:45.748] [SEVERE ] player 2 placing token on slot 0
+[19:09:45.748] [SEVERE ] player 3 placing token on slot 11
+[19:09:45.748] [SEVERE ] setting player 1 freeze to 0
+[19:09:45.748] [SEVERE ] setting player 2 freeze to 0
+[19:09:45.749] [SEVERE ] setting player 3 freeze to -2011
+[19:09:45.749] [SEVERE ] setting player 4 freeze to -4
+[19:09:45.748] [SEVERE ] removing player 4 token from slot 8
+[19:09:45.749] [SEVERE ] setting player 1 freeze to -1
+[19:09:45.749] [SEVERE ] setting player 2 freeze to -1
+[19:09:45.749] [SEVERE ] setting player 3 freeze to 0
+[19:09:45.749] [SEVERE ] setting player 4 freeze to -4
+[19:09:45.749] [SEVERE ] removing player 1 token from slot 11
+[19:09:45.750] [SEVERE ] player 4 placing token on slot 5
+[19:09:45.750] [SEVERE ] setting player 1 freeze to -2
+[19:09:45.750] [SEVERE ] setting player 2 freeze to -2
+[19:09:45.750] [SEVERE ] setting player 3 freeze to -1
+[19:09:45.750] [SEVERE ] setting player 4 freeze to -5
+[19:09:45.750] [SEVERE ] setting player 1 freeze to -2
+[19:09:45.750] [SEVERE ] setting player 2 freeze to -2
+[19:09:45.751] [SEVERE ] setting player 3 freeze to -2
+[19:09:45.751] [SEVERE ] setting player 4 freeze to -1
+[19:09:45.751] [SEVERE ] player 1 placing token on slot 1
+[19:09:45.751] [SEVERE ] removing player 2 token from slot 0
+[19:09:45.751] [SEVERE ] setting player 1 freeze to 0
+[19:09:45.751] [SEVERE ] setting player 2 freeze to -3
+[19:09:45.751] [SEVERE ] setting player 3 freeze to -2
+[19:09:45.751] [SEVERE ] setting player 4 freeze to -1
+[19:09:45.751] [SEVERE ] removing player 3 token from slot 3
+[19:09:45.752] [SEVERE ] removing player 2 token from slot 4
+[19:09:45.753] [SEVERE ] player 3 placing token on slot 5
+[19:09:45.753] [SEVERE ] setting player 1 freeze to -2
+[19:09:45.753] [SEVERE ] setting player 2 freeze to -5
+[19:09:45.753] [SEVERE ] setting player 3 freeze to 0
+[19:09:45.753] [SEVERE ] setting player 4 freeze to -3
+[19:09:45.754] [SEVERE ] player 2 placing token on slot 0
+[19:09:45.754] [SEVERE ] removing player 1 token from slot 3
+[19:09:45.755] [SEVERE ] player 1 placing token on slot 10
+[19:09:45.755] [SEVERE ] player 2 placing token on slot 6
+[19:09:45.755] [SEVERE ] setting player 1 freeze to 0
+[19:09:45.755] [SEVERE ] setting player 2 freeze to -7
+[19:09:45.756] [SEVERE ] setting player 3 freeze to -3
+[19:09:45.756] [SEVERE ] setting player 4 freeze to -6
+[19:09:45.755] [SEVERE ] removing player 4 token from slot 9
+[19:09:45.756] [SEVERE ] setting player 1 freeze to -1
+[19:09:45.756] [SEVERE ] setting player 2 freeze to 0
+[19:09:45.756] [SEVERE ] setting player 3 freeze to -3
+[19:09:45.756] [SEVERE ] setting player 4 freeze to -6
+[19:09:45.757] [SEVERE ] removing player 1 token from slot 9
+[19:09:45.757] [SEVERE ] player 4 placing token on slot 8
+[19:09:45.757] [SEVERE ] removing player 2 token from slot 3
+[19:09:45.758] [SEVERE ] setting player 1 freeze to -3
+[19:09:45.758] [SEVERE ] setting player 2 freeze to -2
+[19:09:45.758] [SEVERE ] setting player 3 freeze to -5
+[19:09:45.758] [SEVERE ] setting player 4 freeze to -1
+[19:09:45.758] [SEVERE ] player 1 placing token on slot 3
+[19:09:45.758] [SEVERE ] removing player 3 token from slot 5
+[19:09:45.759] [SEVERE ] setting player 1 freeze to 0
+[19:09:45.759] [SEVERE ] setting player 2 freeze to -3
+[19:09:45.759] [SEVERE ] setting player 3 freeze to -6
+[19:09:45.759] [SEVERE ] setting player 4 freeze to -2
+[19:09:45.759] [SEVERE ] player 2 placing token on slot 4
+[19:09:45.759] [SEVERE ] removing player 4 token from slot 8
+[19:09:45.759] [SEVERE ] setting player 1 freeze to 0
+[19:09:45.759] [SEVERE ] setting player 2 freeze to -3
+[19:09:45.759] [SEVERE ] setting player 3 freeze to -6
+[19:09:45.759] [SEVERE ] setting player 4 freeze to -2
+[19:09:45.759] [SEVERE ] removing player 1 token from slot 1
+[19:09:45.759] [SEVERE ] setting player 1 freeze to 0
+[19:09:45.759] [SEVERE ] setting player 2 freeze to 0
+[19:09:45.759] [SEVERE ] setting player 3 freeze to -6
+[19:09:45.759] [SEVERE ] setting player 4 freeze to -2
+[19:09:45.759] [SEVERE ] removing player 2 token from slot 0
+[19:09:45.760] [SEVERE ] player 3 placing token on slot 5
+[19:09:45.760] [SEVERE ] setting player 1 freeze to -1
+[19:09:45.760] [SEVERE ] setting player 2 freeze to -1
+[19:09:45.760] [SEVERE ] setting player 3 freeze to 0
+[19:09:45.760] [SEVERE ] player 4 placing token on slot 7
+[19:09:45.760] [SEVERE ] setting player 4 freeze to -3
+[19:09:45.760] [SEVERE ] player 1 placing token on slot 11
+[19:09:45.760] [SEVERE ] setting player 1 freeze to -1
+[19:09:45.761] [SEVERE ] setting player 2 freeze to -2
+[19:09:45.761] [SEVERE ] setting player 3 freeze to -1
+[19:09:45.761] [SEVERE ] setting player 4 freeze to -1
+[19:09:45.761] [SEVERE ] setting player 1 freeze to 0
+[19:09:45.761] [SEVERE ] setting player 2 freeze to -2
+[19:09:45.761] [SEVERE ] setting player 3 freeze to -1
+[19:09:45.761] [SEVERE ] setting player 4 freeze to -1
+[19:09:45.761] [SEVERE ] player 2 placing token on slot 7
+[19:09:45.761] [SEVERE ] removing player 3 token from slot 5
+[19:09:45.762] [SEVERE ] setting player 1 freeze to -1
+[19:09:45.762] [SEVERE ] setting player 2 freeze to 0
+[19:09:45.762] [SEVERE ] setting player 3 freeze to -2
+[19:09:45.762] [SEVERE ] setting player 4 freeze to -2
+[19:09:45.762] [SEVERE ] removing player 4 token from slot 0
+[19:09:45.763] [SEVERE ] player 3 placing token on slot 5
+[19:09:45.763] [SEVERE ] setting player 1 freeze to -2
+[19:09:45.763] [SEVERE ] setting player 2 freeze to -1
+[19:09:45.763] [SEVERE ] setting player 3 freeze to 0
+[19:09:45.763] [SEVERE ] setting player 4 freeze to -3
+[19:09:45.763] [SEVERE ] removing player 4 token from slot 5
+[19:09:45.764] [SEVERE ] removing player 3 token from slot 5
+[19:09:45.765] [SEVERE ] setting player 1 freeze to -4
+[19:09:45.765] [SEVERE ] setting player 2 freeze to -3
+[19:09:45.765] [SEVERE ] setting player 3 freeze to -2
+[19:09:45.765] [SEVERE ] setting player 4 freeze to -5
+[19:09:45.765] [SEVERE ] player 4 placing token on slot 0
+[19:09:45.766] [SEVERE ] removing player 3 token from slot 11
+[19:09:45.766] [SEVERE ] removing player 1 token from slot 10
+[19:09:45.766] [SEVERE ] player 4 placing token on slot 2
+[19:09:45.767] [SEVERE ] setting player 1 freeze to -6
+[19:09:45.767] [SEVERE ] setting player 2 freeze to -5
+[19:09:45.767] [SEVERE ] setting player 3 freeze to -4
+[19:09:45.767] [SEVERE ] setting player 4 freeze to 0
+[19:09:45.767] [SEVERE ] player 3 placing token on slot 3
+[19:09:45.767] [SEVERE ] player 1 placing token on slot 6
+[19:09:45.768] [SEVERE ] setting player 1 freeze to 0
+[19:09:45.768] [SEVERE ] setting player 2 freeze to -6
+[19:09:45.768] [SEVERE ] setting player 3 freeze to -5
+[19:09:45.768] [SEVERE ] setting player 4 freeze to -1
+[19:09:45.768] [SEVERE ] removing player 4 token from slot 7
+[19:09:45.768] [SEVERE ] removing player 1 token from slot 6
+[19:09:45.768] [SEVERE ] player 3 placing token on slot 9
+[19:09:45.768] [SEVERE ] setting player 1 freeze to 0
+[19:09:45.768] [SEVERE ] setting player 2 freeze to -6
+[19:09:45.768] [SEVERE ] player 1 placing token on slot 6
+[19:09:45.769] [SEVERE ] setting player 3 freeze to -6
+[19:09:45.769] [SEVERE ] setting player 4 freeze to -2
+[19:09:45.769] [SEVERE ] setting player 1 freeze to -1
+[19:09:45.769] [SEVERE ] setting player 2 freeze to -7
+[19:09:45.769] [SEVERE ] setting player 3 freeze to 0
+[19:09:45.769] [SEVERE ] setting player 4 freeze to -2
+[19:09:45.769] [SEVERE ] setting player 1 freeze to 0
+[19:09:45.769] [SEVERE ] setting player 2 freeze to -7
+[19:09:45.769] [SEVERE ] setting player 3 freeze to 0
+[19:09:45.769] [SEVERE ] setting player 4 freeze to -2
+[19:09:45.769] [SEVERE ] removing player 4 token from slot 2
+[19:09:45.771] [SEVERE ] player 4 placing token on slot 4
+[19:09:45.772] [SEVERE ] player 4 placing token on slot 9
+[19:09:45.773] [SEVERE ] setting player 1 freeze to -4
+[19:09:45.773] [SEVERE ] setting player 2 freeze to -11
+[19:09:45.773] [SEVERE ] setting player 3 freeze to -4
+[19:09:45.773] [SEVERE ] setting player 4 freeze to 0
+[19:09:45.774] [SEVERE ] removing player 3 token from slot 7
+[19:09:45.774] [SEVERE ] removing player 1 token from slot 11
+[19:09:45.775] [SEVERE ] player 3 placing token on slot 0
+[19:09:45.775] [SEVERE ] setting player 1 freeze to -6
+[19:09:45.775] [SEVERE ] setting player 2 freeze to -13
+[19:09:45.775] [SEVERE ] setting player 3 freeze to 0
+[19:09:45.775] [SEVERE ] setting player 4 freeze to -2
+[19:09:45.776] [SEVERE ] player 1 placing token on slot 11
+[19:09:45.776] [SEVERE ] setting player 1 freeze to 0
+[19:09:45.776] [SEVERE ] setting player 2 freeze to -14
+[19:09:45.776] [SEVERE ] setting player 3 freeze to -1
+[19:09:45.776] [SEVERE ] setting player 4 freeze to -3
+[19:09:45.778] [SEVERE ] removing player 1 token from slot 11
+[19:09:45.779] [SEVERE ] removing player 3 token from slot 9
+[19:09:45.780] [SEVERE ] player 1 placing token on slot 2
+[19:09:45.780] [SEVERE ] setting player 1 freeze to 0
+[19:09:45.780] [SEVERE ] setting player 2 freeze to -18
+[19:09:45.780] [SEVERE ] setting player 3 freeze to -5
+[19:09:45.780] [SEVERE ] setting player 4 freeze to -7
+[19:09:45.780] [SEVERE ] removing player 1 token from slot 3
+[19:09:45.780] [SEVERE ] player 3 placing token on slot 1
+[19:09:45.781] [SEVERE ] setting player 1 freeze to -1
+[19:09:45.781] [SEVERE ] setting player 2 freeze to -19
+[19:09:45.781] [SEVERE ] setting player 3 freeze to 0
+[19:09:45.781] [SEVERE ] setting player 4 freeze to -8
+[19:09:45.782] [SEVERE ] player 1 placing token on slot 0
+[19:09:45.782] [SEVERE ] setting player 1 freeze to 0
+[19:09:45.782] [SEVERE ] setting player 2 freeze to -20
+[19:09:45.782] [SEVERE ] setting player 3 freeze to -1
+[19:09:45.782] [SEVERE ] setting player 4 freeze to -9
+[19:09:45.782] [SEVERE ] removing player 2 token from slot 4
+[19:09:45.783] [SEVERE ] player 2 placing token on slot 3
+[19:09:45.784] [SEVERE ] removing player 3 token from slot 0
+[19:09:45.784] [SEVERE ] setting player 1 freeze to -2
+[19:09:45.784] [SEVERE ] setting player 2 freeze to 0
+[19:09:45.784] [SEVERE ] setting player 3 freeze to -3
+[19:09:45.784] [SEVERE ] setting player 4 freeze to -11
+[19:09:45.785] [SEVERE ] player 3 placing token on slot 8
+[19:09:45.785] [SEVERE ] setting player 1 freeze to -3
+[19:09:45.786] [SEVERE ] setting player 2 freeze to -2
+[19:09:45.786] [SEVERE ] setting player 3 freeze to -1
+[19:09:45.786] [SEVERE ] setting player 4 freeze to -13
+[19:09:45.787] [SEVERE ] removing player 4 token from slot 4
+[19:09:45.788] [SEVERE ] player 4 placing token on slot 5
+[19:09:45.789] [SEVERE ] setting player 1 freeze to -7
+[19:09:45.789] [SEVERE ] setting player 2 freeze to -5
+[19:09:45.789] [SEVERE ] setting player 3 freeze to -4
+[19:09:45.789] [SEVERE ] setting player 4 freeze to 0
+[19:09:45.789] [SEVERE ] removing player 3 token from slot 1
+[19:09:45.790] [SEVERE ] removing player 4 token from slot 0
+[19:09:45.791] [SEVERE ] player 3 placing token on slot 5
+[19:09:45.791] [SEVERE ] setting player 1 freeze to -9
+[19:09:45.791] [SEVERE ] setting player 2 freeze to -7
+[19:09:45.791] [SEVERE ] setting player 3 freeze to 0
+[19:09:45.791] [SEVERE ] setting player 4 freeze to -2
+[19:09:45.791] [SEVERE ] player 4 placing token on slot 0
+[19:09:45.791] [SEVERE ] setting player 1 freeze to -9
+[19:09:45.791] [SEVERE ] setting player 2 freeze to -7
+[19:09:45.792] [SEVERE ] setting player 3 freeze to -1
+[19:09:45.792] [SEVERE ] setting player 4 freeze to -1
+[19:09:45.792] [SEVERE ] removing player 2 token from slot 7
+[19:09:45.792] [SEVERE ] removing player 3 token from slot 5
+[19:09:45.793] [SEVERE ] player 2 placing token on slot 4
+[19:09:45.793] [SEVERE ] setting player 1 freeze to -11
+[19:09:45.793] [SEVERE ] setting player 2 freeze to -9
+[19:09:45.793] [SEVERE ] setting player 3 freeze to -2
+[19:09:45.793] [SEVERE ] setting player 4 freeze to -2
+[19:09:45.794] [SEVERE ] setting player 1 freeze to -12
+[19:09:45.794] [SEVERE ] setting player 2 freeze to -1
+[19:09:45.794] [SEVERE ] setting player 3 freeze to -3
+[19:09:45.794] [SEVERE ] player 3 placing token on slot 0
+[19:09:45.794] [SEVERE ] setting player 4 freeze to -3
+[19:09:45.794] [SEVERE ] setting player 1 freeze to -12
+[19:09:45.794] [SEVERE ] setting player 2 freeze to -1
+[19:09:45.794] [SEVERE ] setting player 3 freeze to 0
+[19:09:45.794] [SEVERE ] setting player 4 freeze to -3
+[19:09:45.795] [SEVERE ] removing player 4 token from slot 9
+[19:09:45.796] [SEVERE ] removing player 3 token from slot 8
+[19:09:45.796] [SEVERE ] removing player 2 token from slot 3
+[19:09:45.796] [SEVERE ] setting player 1 freeze to -14
+[19:09:45.796] [SEVERE ] setting player 2 freeze to -3
+[19:09:45.796] [SEVERE ] setting player 3 freeze to -2
+[19:09:45.796] [SEVERE ] setting player 4 freeze to -5
+[19:09:45.796] [SEVERE ] player 3 placing token on slot 8
+[19:09:45.797] [SEVERE ] setting player 1 freeze to -15
+[19:09:45.797] [SEVERE ] setting player 2 freeze to -4
+[19:09:45.797] [SEVERE ] setting player 3 freeze to 0
+[19:09:45.797] [SEVERE ] setting player 4 freeze to -6
+[19:09:45.797] [SEVERE ] player 4 placing token on slot 8
+[19:09:45.797] [SEVERE ] setting player 1 freeze to -15
+[19:09:45.797] [SEVERE ] player 2 placing token on slot 3
+[19:09:45.797] [SEVERE ] setting player 2 freeze to -4
+[19:09:45.797] [SEVERE ] setting player 3 freeze to 0
+[19:09:45.797] [SEVERE ] setting player 4 freeze to 0
+[19:09:45.798] [SEVERE ] setting player 1 freeze to -16
+[19:09:45.798] [SEVERE ] setting player 2 freeze to -1
+[19:09:45.798] [SEVERE ] setting player 3 freeze to -1
+[19:09:45.798] [SEVERE ] setting player 4 freeze to -1
+[19:09:45.800] [SEVERE ] removing player 4 token from slot 0
+[19:09:45.801] [SEVERE ] player 4 placing token on slot 4
+[19:09:45.801] [SEVERE ] setting player 1 freeze to -19
+[19:09:45.801] [SEVERE ] setting player 2 freeze to -4
+[19:09:45.801] [SEVERE ] setting player 3 freeze to -4
+[19:09:45.801] [SEVERE ] setting player 4 freeze to 0
+[19:09:45.802] [SEVERE ] removing player 2 token from slot 4
+[19:09:45.803] [SEVERE ] removing player 2 token from slot 6
+[19:09:45.804] [SEVERE ] player 2 placing token on slot 4
+[19:09:45.806] [SEVERE ] player 2 placing token on slot 0
+[19:09:45.806] [SEVERE ] setting player 1 freeze to -24
+[19:09:45.806] [SEVERE ] setting player 2 freeze to 0
+[19:09:45.806] [SEVERE ] setting player 3 freeze to -9
+[19:09:45.806] [SEVERE ] setting player 4 freeze to -5
+[19:09:45.807] [SEVERE ] removing player 3 token from slot 8
+[19:09:45.808] [SEVERE ] exit button pressed
+[19:09:45.808] [SEVERE ] removing player 1 token from slot 6
+[19:09:45.808] [INFO   ] thread computer-2 terminated.
+[19:09:45.809] [SEVERE ] removing player 1 token from slot 0
+[19:09:45.810] [INFO   ] thread computer-1 terminated.
+[19:09:45.811] [INFO   ] thread computer-3 terminated.
+[19:09:45.811] [INFO   ] thread computer-0 terminated.
+[19:09:45.811] [INFO   ] thread 0player terminated.
+[19:09:45.811] [INFO   ] thread 1player terminated.
+[19:09:45.811] [INFO   ] thread 2player terminated.
+[19:09:45.811] [INFO   ] thread 3player terminated.
+[19:09:45.817] [SEVERE ] updating countdown to 5000
+[19:09:45.817] [SEVERE ] removing card from slot 0
+[19:09:45.818] [SEVERE ] removing card from slot 1
+[19:09:45.818] [SEVERE ] removing card from slot 2
+[19:09:45.818] [SEVERE ] removing card from slot 3
+[19:09:45.818] [SEVERE ] removing card from slot 4
+[19:09:45.818] [SEVERE ] removing card from slot 5
+[19:09:45.818] [SEVERE ] removing card from slot 6
+[19:09:45.818] [SEVERE ] removing card from slot 7
+[19:09:45.818] [SEVERE ] removing card from slot 8
+[19:09:45.818] [SEVERE ] removing card from slot 9
+[19:09:45.818] [SEVERE ] removing card from slot 10
+[19:09:45.818] [SEVERE ] removing card from slot 11
+[19:09:45.818] [SEVERE ] removing player 1 token from slot 0
+[19:09:45.818] [SEVERE ] removing player 1 token from slot 1
+[19:09:45.818] [SEVERE ] removing player 1 token from slot 2
+[19:09:45.818] [SEVERE ] removing player 1 token from slot 3
+[19:09:45.818] [SEVERE ] removing player 1 token from slot 4
+[19:09:45.818] [SEVERE ] removing player 1 token from slot 5
+[19:09:45.818] [SEVERE ] removing player 1 token from slot 6
+[19:09:45.818] [SEVERE ] removing player 1 token from slot 7
+[19:09:45.818] [SEVERE ] removing player 1 token from slot 8
+[19:09:45.818] [SEVERE ] removing player 1 token from slot 9
+[19:09:45.818] [SEVERE ] removing player 1 token from slot 10
+[19:09:45.818] [SEVERE ] removing player 1 token from slot 11
+[19:09:45.818] [SEVERE ] removing player 2 token from slot 0
+[19:09:45.818] [SEVERE ] removing player 2 token from slot 1
+[19:09:45.818] [SEVERE ] removing player 2 token from slot 2
+[19:09:45.818] [SEVERE ] removing player 2 token from slot 3
+[19:09:45.819] [SEVERE ] removing player 2 token from slot 4
+[19:09:45.819] [SEVERE ] removing player 2 token from slot 5
+[19:09:45.819] [SEVERE ] removing player 2 token from slot 6
+[19:09:45.819] [SEVERE ] removing player 2 token from slot 7
+[19:09:45.819] [SEVERE ] removing player 2 token from slot 8
+[19:09:45.819] [SEVERE ] removing player 2 token from slot 9
+[19:09:45.819] [SEVERE ] removing player 2 token from slot 10
+[19:09:45.819] [SEVERE ] removing player 2 token from slot 11
+[19:09:45.819] [SEVERE ] removing player 3 token from slot 0
+[19:09:45.819] [SEVERE ] removing player 3 token from slot 1
+[19:09:45.819] [SEVERE ] removing player 3 token from slot 2
+[19:09:45.819] [SEVERE ] removing player 3 token from slot 3
+[19:09:45.819] [SEVERE ] removing player 3 token from slot 4
+[19:09:45.819] [SEVERE ] removing player 3 token from slot 5
+[19:09:45.819] [SEVERE ] removing player 3 token from slot 6
+[19:09:45.819] [SEVERE ] removing player 3 token from slot 7
+[19:09:45.819] [SEVERE ] removing player 3 token from slot 8
+[19:09:45.819] [SEVERE ] removing player 3 token from slot 9
+[19:09:45.819] [SEVERE ] removing player 3 token from slot 10
+[19:09:45.819] [SEVERE ] removing player 3 token from slot 11
+[19:09:45.819] [SEVERE ] removing player 4 token from slot 0
+[19:09:45.819] [SEVERE ] removing player 4 token from slot 1
+[19:09:45.819] [SEVERE ] removing player 4 token from slot 2
+[19:09:45.819] [SEVERE ] removing player 4 token from slot 3
+[19:09:45.819] [SEVERE ] removing player 4 token from slot 4
+[19:09:45.819] [SEVERE ] removing player 4 token from slot 5
+[19:09:45.820] [SEVERE ] removing player 4 token from slot 6
+[19:09:45.820] [SEVERE ] removing player 4 token from slot 7
+[19:09:45.820] [SEVERE ] removing player 4 token from slot 8
+[19:09:45.820] [SEVERE ] removing player 4 token from slot 9
+[19:09:45.820] [SEVERE ] removing player 4 token from slot 10
+[19:09:45.820] [SEVERE ] removing player 4 token from slot 11
+[19:09:45.820] [SEVERE ] announcing winner(s): player 1, player 2, player 3, player 4
+[19:09:45.821] [INFO   ] thread dealer terminated.
+[19:09:45.821] [INFO   ] thread dealer terminated.
+[19:09:45.821] [SEVERE ] thanks for playing... it was fun!
+[19:09:45.821] [INFO   ] thread main terminated.
